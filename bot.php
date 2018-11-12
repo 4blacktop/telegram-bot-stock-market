@@ -1,6 +1,6 @@
 <?php
 // http://www.fileformat.info/info/emoji/list.htm
-define('BOT_TOKEN', '236412659:AAGa5NG2JhbaypK64CCx1lXFPQ_PUJM1dww');
+define('BOT_TOKEN', '23641sdghsfgjsPQ_PUJM1dww');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 function apiRequestWebhook($method, $parameters) {
